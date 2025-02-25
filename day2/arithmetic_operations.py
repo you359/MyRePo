@@ -49,7 +49,7 @@ def test_operations(num1, num2):
 if __name__ == "__main__":
     # 테스트 값
     num1 = 10
-    num2 = 5
+    num2 = 0
 
     # 결과 출력
     test_operations(num1, num2)
